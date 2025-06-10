@@ -1,4 +1,4 @@
-# Clickhouse on EC2 using terraform
+# Ubuntu on EC2 using terraform
 
 ## Prerequisites
 
